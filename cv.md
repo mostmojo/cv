@@ -106,7 +106,7 @@ One year exchange student at CSUDH, Los Angeles, California.
 - **Diplomas**: Qualified by ABRSM: Grade 8 Classical Guitar & Grade 5 Theory.
 - **Hobbies**: **Running**: I believe stamina is the key to the stillness of the mind. I enjoy running daily for personal health and well-being. **Chess**: Vice President of KUL. **Calisthenics**: The art of movement with the human body. Involves balance, agility and coordination.
 - **Advisory**: Wrote a business plan for children’s soft play start-up in London called Kidventure w/ £80K initial costs.
-- **Blockchain**: consulted to create a proof of concept for an upcoming ICO (June 2018), after Series A funding ($4m), for
+- **Blockchain**: consulted to create a proof of concept for an ICO (June 2018), after Series A funding ($4m), for
 [Entocycle](www.entocycle.com) - Supply Chain Management / Insect Farm start-up looking to put their services on the block-chain using Ethereum and RFID technology.
 - **Strategic Advisor** to [Cherr.io](https://cherr.io). BaaS start-up in the charity sector. I project managed a team of developers and marketeers to help raise $300K seed round.
 - **Interests**: Entrepreneurship, Blockchain and Cryptocurrency investment. Founder of [Bitmera]( (http://bitmera.com): Community. Turned $500 initial investment to $20,000 and self-funded my project and community.
