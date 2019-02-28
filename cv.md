@@ -55,7 +55,7 @@ Though my coding career is just beginning, I’ve moulded myself into a well-rou
 Worked for clients listed below: 
 
 - Junior Fullstack Web Developer @ **[Cambridge Blockchain](http://cambridgeblockchainforum.com/)** <br>
-*November 2019 - January 2019*
+*November 2018 - January 2019*
   - Built a dynamic website for Cambridge University's Blockchain department, which successfully had 300 attendees.
 
     **Stack:** Javascript, Bootstrap, CSS, HTML
