@@ -3,7 +3,7 @@
 #### Junior Fullstack Web Developer
 - **Mobile:** +44 7729756069
 - **Email:** [jacob.papageorgiou@gmail.com](mailto:jacob.papageorgiou@gmail.com) 
-- **Linkedin:** [https://uk.linkedin.com/in/jacob-papageorgiou](https://www.linkedin.com/in/jacob-papageorgiou/) 
+- **Linkedin:** [https://uk.linkedin.com/in/jacob-papa](https://www.linkedin.com/in/jacob-papa/) 
 - **Github:** [github.com/mostmojo](https://github.com/mostmojo) 
 - **Website:** [https://mostmojo.github.io/](https://mostmojo.github.io/)
 - EU Passport Holder
