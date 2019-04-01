@@ -4,7 +4,8 @@
 - **Mobile:** +44 7729756069
 - **Email:** [jacob.papageorgiou@gmail.com](mailto:jacob.papageorgiou@gmail.com) 
 - **Linkedin:** [https://uk.linkedin.com/in/jacob-papa](https://www.linkedin.com/in/jacob-papa/) 
-- **Github:** [github.com/mostmojo](https://github.com/mostmojo) 
+- **Github:** [github.com/mostmojo](https://github.com/mostmojo)
+- **Dribbble:** [dribbble.com/mostmojo](https://dribbble.com/mostmojo) 
 - **Website:** [https://mostmojo.github.io/](https://mostmojo.github.io/)
 - EU Passport Holder
 
@@ -26,7 +27,8 @@ Though my coding career is just beginning, I’ve moulded myself into a well-rou
 
 - JavaScript
     - Frontend | Native [Vanilla]
-    - Build tools | NPM, webpacker 
+    - Build tools | NPM, webpacker
+    - React (basic)
 - HTML
     - Standards compliant, including WCAG 1.0 AA and WAI-ARIA
 - CSS3
